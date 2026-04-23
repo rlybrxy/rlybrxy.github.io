@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a58b9a-3535-4a51-a6d9-0f170b87a507" name="Changes" comment="Did the index for the numbers and style for css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    <list default="true" id="15a58b9a-3535-4a51-a6d9-0f170b87a507" name="Changes" comment="did the js part">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1776592156485" duration="25000" />
       <workItem from="1776592247004" duration="1090000" />
       <workItem from="1776681751888" duration="2713000" />
-      <workItem from="1776882901848" duration="8912000" />
+      <workItem from="1776882901848" duration="9847000" />
     </task>
     <task id="LOCAL-00001" summary="base star of index file">
       <option name="closed" value="true" />
@@ -120,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776908016536</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="did the js part">
+      <option name="closed" value="true" />
+      <created>1776913077738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776913077738</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +146,7 @@
     <MESSAGE value="base star of index file" />
     <MESSAGE value="base start of index file" />
     <MESSAGE value="Did the index for the numbers and style for css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did the index for the numbers and style for css" />
+    <MESSAGE value="did the js part" />
+    <option name="LAST_COMMIT_MESSAGE" value="did the js part" />
   </component>
 </project>

@@ -24,10 +24,11 @@ body {
     height: 50px;
     margin: 10px;
     border: 2px solid black;
-    justify-items: center;
     background: snow;
     display: flex;
     align-items: center;
+    justify-items: right;
+    padding-right: 15px;
     border-radius: 8px;
     font-size: 25px;
     font-family: monospace;
