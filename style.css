@@ -16,7 +16,7 @@ body {
     justify-items: center;
     border-radius: 8px;
     box-shadow: 20px 30px 10px rgba(0,0,0,.3);
-    background: linear-gradient(to left bottom, #5353e8, lightskyblue);
+    background: linear-gradient(to left bottom, #93E9BE, #B0E0E6);
 }
 
 .display {
@@ -26,6 +26,9 @@ body {
     border: 2px solid black;
     justify-items: center;
     background: snow;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
 }
 
 
@@ -38,6 +41,6 @@ body {
 
 button {
     height: 80px;
-    font-size: 20px;
+    font-size: 25px;
     width: 80px;
 }
