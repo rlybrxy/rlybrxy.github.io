@@ -29,6 +29,8 @@ body {
     display: flex;
     align-items: center;
     border-radius: 8px;
+    font-size: 25px;
+    font-family: monospace;
 }
 
 
