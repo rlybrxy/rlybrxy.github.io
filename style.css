@@ -4,8 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    font-family: sans-serif;
-    background: linear-gradient(to left bottom, lightgreen, lightblue);
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, lightgreen, lightblue);
 }
 
 .calculator {
@@ -19,6 +19,13 @@ body {
     background: linear-gradient(to left bottom, #93E9BE, #B0E0E6);
 }
 
+.calculator h1{
+    font-size: 32px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: black;
+    letter-spacing: 2px;
+}
 .display {
     width: 350px;
     height: 50px;
@@ -39,11 +46,20 @@ body {
     display: grid;
     padding-top: 20px;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 15px;
+    justify-items: center;
 }
 
 button {
     height: 80px;
     font-size: 25px;
     width: 80px;
+}
+
+.footer{
+    opacity: 0.5;
+    position: absolute;
+    bottom: 10px;
+    font-size: 14px;
+    color: black;
 }
