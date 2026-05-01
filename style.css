@@ -56,10 +56,3 @@ button {
     width: 80px;
 }
 
-.footer{
-    opacity: 0.5;
-    position: absolute;
-    bottom: 10px;
-    font-size: 14px;
-    color: black;
-}
